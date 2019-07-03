@@ -1,5 +1,7 @@
 mighty-watcher
 ---
+Utility serves purpose to find issues available for contributing
+
 #### It will search for issues that are:
  - non-assigned 
  - open
@@ -15,8 +17,7 @@ mighty-watcher
  
  please start marking issues with labels if you own something
  
-TODO:
-- ?
-- ?
-- ?
-- ?
+#### TODO:
+- hide repositories which language doesn't conform with args
+- sort issues by updatedAt
+- support hiding repositories without unstarring them
