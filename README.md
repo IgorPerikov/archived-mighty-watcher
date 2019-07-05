@@ -17,7 +17,3 @@ Utility serves purpose to find issues available for contributing
  
  please start marking issues with labels if you own something
  
-#### TODO:
-- hide repositories which language doesn't conform with args
-- sort issues by updatedAt
-- support hiding repositories without unstarring them
