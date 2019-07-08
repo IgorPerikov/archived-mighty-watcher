@@ -10,6 +10,7 @@ Utility serves purpose to find issues available for contributing
  - starred by account, which issued api access token 
 
 #### How to use:
+ - generate an API access token: go to Settings -> Developer Settings -> Personal access tokens -> Generate new token. Not a single scope is needed. 
  - with docker: ``
 
 #### Contribution:
