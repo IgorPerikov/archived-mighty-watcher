@@ -4,7 +4,4 @@ linters:
     - gocritic
     - gochecknoinits
     - gochecknoglobals
-  presets:
-    - bugs
-    - unused
   fast: false
